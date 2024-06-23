@@ -4,8 +4,8 @@ Welcome to the Spring Academy repository! This repository contains all modules o
 ## Courses and Progress Checklist
 
 ### COURSE 1: Building a REST API with Spring Boot
-- [ ] **MODULE 1 : Creating RESTful Endpoints**
-- [ ] **MODULE 2 : Developing a Secure App**
+- [x] **MODULE 1 : Creating RESTful Endpoints**
+- [x] **MODULE 2 : Developing a Secure App**
 - [ ] **MODULE 3 : Rounding Out CRUD**
 ### COURSE 2: Introduction to the Spring Professional Learning Path
 - [ ] **MODULE 1**
