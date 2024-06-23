@@ -1,35 +1,25 @@
-# Spring Academy
+# Spring Academy Learning Path
+Welcome to the Spring Academy repository! This repository contains all modules of the Spring Boot Academy Learning Path.
 
-Welcome to the Spring Academy repository! This repository contains modules to help you learn and master Spring Boot, a framework for building Java applications.
+## Courses and Progress Checklist
 
-## Modules
-
-### MODULE 1: Spring Boot Feature Introduction
-Introduction to Spring Boot's core features and benefits.
-
-### MODULE 2: Spring Boot - A Closer Look
-In-depth exploration of Spring Boot's functionality and creating applications.
-
-### MODULE 3: Spring Boot - Spring Data JPA
-Handling data persistence with Spring Data JPA.
-
-### MODULE 4: Web Application with Spring Boot
-Building a web application with Spring Boot.
-
-### MODULE 5: RESTful Application with Spring Boot
-Creating RESTful web applications with Spring Boot.
-
-### MODULE 6: Spring Boot Testing
-Testing Spring Boot applications.
-
-### MODULE 7: Securing REST Application with Spring Security
-Securing RESTful applications with Spring Security.
-
-### MODULE 8: Actuator
-Managing and monitoring applications with Spring Boot Actuator.
-
-## Progress Checklist
-
+### COURSE 1: Building a REST API with Spring Boot
+- [ ] **MODULE 1 : Creating RESTful Endpoints**
+- [ ] **MODULE 2 : Developing a Secure App**
+- [ ] **MODULE 3 : Rounding Out CRUD**
+### COURSE 2: Introduction to the Spring Professional Learning Path
+- [ ] **MODULE 1**
+### COURSE 3: Spring Framework Essentials
+- [ ] **MODULE 1: Spring Essentials Overview**
+- [ ] **MODULE 2 : Java Configuration**
+- [ ] **MODULE 3 : More on Java Configuration**
+- [ ] **MODULE 4 : Component Scanning**
+- [ ] **MODULE 5 : Inside the Spring Container**
+- [ ] **MODULE 6 : Introducing Aspect Oriented Programming**
+- [ ] **MODULE 7 : Testing Spring Applications**
+- [ ] **MODULE 8 : JDBC Simplification with Jdbc Template**
+- [ ] **MODULE 9 : Transaction Management with Spring**
+### COURSE 4: Web Application with Spring Boot
 - [ ] **MODULE 1: Spring Boot Feature Introduction**
 - [ ] **MODULE 2: Spring Boot - A Closer Look**
 - [ ] **MODULE 3: Spring Boot - Spring Data JPA**
